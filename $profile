@@ -3,7 +3,7 @@ $PSVersionTable.PSEdition -ne 'Core' | Out-Null
 ## Init + neofetch
 ## fuck winfetch we use fastfetch now
 <# Set-Alias winfetch pwshfetch-test-1
-Set-Alias neofetch pwshfetch-test-1
+
 Winfetch
 #>
 
